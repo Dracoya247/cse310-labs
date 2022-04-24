@@ -18,6 +18,4 @@ This program is written in C++.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [CSE310-BYU-ID](https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html)
